@@ -1,0 +1,1 @@
+# Magic-methods-__iter__-and-__next__-Object-oriented-programming-Python
